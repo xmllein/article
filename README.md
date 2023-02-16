@@ -18,7 +18,7 @@
 
 - [简化版本 underscore.js](https://github.com/xmllein/mini-undersore.js)
 - [umi3.x_playground](https://github.com/xmllein/umi3.x_playground)
-- [umi3.x_travel](基于 umi3.x 旅游前端项目)
+- [umi3.x_travel](https://github.com/xmllein/umi3.x_travel)
 - [egg_travel 基于 EggJs 旅游后台项目](https://github.com/xmllein/egg_travel)
 - [基于 NestJs9.x 练习](https://github.com/xmllein/NestJs9.x_playground)
 - [基于 vue3.x+ts 小型项目，模仿知乎专栏](https://github.com/xmllein/vue3.x_zheye_ts)
