@@ -16,6 +16,7 @@
 
 ## github
 
+- [mini-mvvm 基于 defineProperty，Proxy 数据劫持](https://github.com/xmllein/mini-mvvm)
 - [简化版本 underscore.js](https://github.com/xmllein/mini-undersore.js)
 - [umi3.x_playground](https://github.com/xmllein/umi3.x_playground)
 - [umi3.x_travel](https://github.com/xmllein/umi3.x_travel)
