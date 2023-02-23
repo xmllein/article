@@ -1,3 +1,7 @@
+## 前端基础
+
+- [javascript 基础](https://xmllein.github.io/article/js/base/)
+
 ## Vue 系列
 
 - [Ts + Antd + Vite 实战](https://xmllein.github.io/article/vue/vue3/ts-antd-vite/)
