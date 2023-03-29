@@ -1,10 +1,14 @@
 ## 前端基础
 
 - [javascript 基础](https://xmllein.github.io/article/js/base/)
+- [TypeScript 基础](https://xmllein.github.io/article/js/ts/base/)
+- [git 基础](https://xmllein.github.io/article/resource/git/)
+- [adb 常用 命令](https://xmllein.github.io/article/resource/adb/)
 
 ## Vue 系列
 
 - [Ts + Antd + Vite 实战](https://xmllein.github.io/article/vue/vue3/ts-antd-vite/)
+- [基于 vue3.x 项目开发模板](https://github.com/xmllein/vue3.x_ts_vite_pinia)
 
 ## Node 系列
 
@@ -17,6 +21,8 @@
 ## React 系列
 
 - [Umi3.x + Antd + Ts 实战](https://xmllein.github.io/article/react/umi/umi3-antpro5-ts/)
+- [react 移动端开发模板](https://github.com/xmllein/react18.x_mobile_template)
+- [mini-react](https://github.com/xmllein/mini-react)
 
 ## github
 
@@ -37,6 +43,8 @@
 ## 效率工具
 
 - [Vscode 自定义代码片段](https://xmllein.github.io/article/tools/vscode/vscode-snippets/)
+- [json-server](https://xmllein.github.io/article/tools/mock/Json-server/)
+- [easyMock](https://mock.mengxuegu.com/login)
 - [Copilot](https://github.com/features/copilot/)
 
 ## License
