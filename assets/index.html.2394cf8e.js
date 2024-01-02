@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c0ba1a48","path":"/wechat/sunday_uni_app/chapter13/","title":"第 13 章 课程","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"1）总结","slug":"_1-总结","link":"#_1-总结","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"wechat/sunday_uni_app/chapter13/README.md"}');export{e as data};

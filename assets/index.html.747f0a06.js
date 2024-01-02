@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a0d8ad2","path":"/tools/xcode/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"快捷键","slug":"快捷键","link":"#快捷键","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tools/xcode/README.md"}');export{e as data};

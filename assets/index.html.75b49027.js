@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6446bbc0","path":"/tools/vite/base/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"插件","slug":"插件","link":"#插件","children":[]},{"level":2,"title":"vite","slug":"vite","link":"#vite","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tools/vite/base/README.md"}');export{e as data};

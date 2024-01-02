@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a806e5a","path":"/node/qwik/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"参考资料","slug":"参考资料","link":"#参考资料","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"node/qwik/README.md"}');export{e as data};

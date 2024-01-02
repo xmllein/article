@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-797a31dd","path":"/tools/ai/copilot/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Copilot","slug":"copilot","link":"#copilot","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tools/ai/copilot/README.md"}');export{t as data};

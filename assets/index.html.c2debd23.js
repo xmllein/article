@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2656d94a","path":"/react/nextjs/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"参考资料","slug":"参考资料","link":"#参考资料","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/nextjs/README.md"}');export{e as data};

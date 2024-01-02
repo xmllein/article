@@ -1,0 +1,47 @@
+.hero img{
+  display: block;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  transition: .2s ease-in-out
+}
+.hero .description {
+  font-size: 1rem !important;
+}
+	
+.hero img:hover {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg)
+}
+#app .logo{
+  border-radius: 16px;  
+}
+
+:root {
+  --font-family-code: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+}
+
+.anchor-right{
+  z-index: 1 !important;
+}
+
+/* .anchor-right .anchor-right-content{
+  max-height: 100vh !important;
+} */
+
+.code-group__ul{
+  flex-wrap: wrap !important;
+}
+
+table {
+  font-size: 14px;
+}
+
+table tr th:first-child {
+  width: 15%;
+}
+
+body{
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2a1929f9","path":"/node/electron/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Electron","slug":"electron","link":"#electron","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"node/electron/README.md"}');export{e as data};
